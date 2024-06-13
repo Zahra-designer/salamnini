@@ -1,0 +1,254 @@
+body {
+  border: 5px solid #344394;
+  background-color: #f3efcc;
+  padding: 10px;
+}
+.H1 {
+  color: #344394;
+  border: 5px ridge #344394;
+  border-radius: 5px;
+  padding: 5px;
+  width: 200px;
+  margin-left: 620px;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-shadow: 1px 2px 4px #455677;
+}
+.P1 {
+  border-left: 5px solid #344394;
+  padding-left: 5px;
+  color: #344394;
+  font-size: 17px;
+}
+mark {
+  border-radius: 5px;
+  background-color: #3442947b;
+  padding: 3px;
+  margin: 2px;
+}
+.btn {
+  border: none;
+  color: white;
+  background-color: #007bff;
+  border-radius: 3px;
+  padding: 10px;
+  margin: 4px 1px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn1:hover {
+  background-color: #0069da;
+}
+.btn1:active {
+  border: 3.5px solid #1385ff;
+  border-radius: 3px;
+}
+.btn2 {
+  background-color: #6c757d;
+}
+.btn2:hover {
+  background-color: #606971;
+}
+.btn2:active {
+  border: 3.5px solid #828c96;
+  border-radius: 3px;
+}
+.btn3 {
+  background-color: #28a745;
+}
+.btn3:hover {
+  background-color: #23933d;
+}
+.btn3:active {
+  border: 3.5px solid #2cc34f;
+}
+.btn4 {
+  background-color: #dc3545;
+}
+.btn4:hover {
+  background-color: #c42f3e;
+}
+.btn4:active {
+  border: 3.5px solid #f63b4e;
+  border-radius: 3px;
+}
+.btn5 {
+  background-color: #ffc107;
+}
+.btn5:hover {
+  background-color: #d5a105;
+}
+.btn5:active {
+  border: 3.5px solid #ffc929;
+  border-radius: 3px;
+}
+.btn6 {
+  background-color: #17a2b8;
+}
+.btn6:hover {
+  background-color: #13889a;
+}
+.btn6:active {
+  border: 3.5px solid #1bb0c7;
+  border-radius: 3px;
+}
+.btn7 {
+  background-color: #f3efcc;
+  color: black;
+}
+.btn7:hover {
+  background-color: #cfcbac;
+}
+
+.btn8 {
+  background-color: #343a40;
+}
+.btn8:hover {
+  background-color: #23272b;
+}
+.btn8:active {
+  border: 3.5px solid #383f45;
+  border-radius: 3px;
+}
+.btn9 {
+  background-color: #f3efcc;
+  color: #007bff;
+}
+.btn9:hover {
+  color: #0069da;
+}
+.btn10:hover {
+  background-color: #0069da;
+}
+.btn10:active {
+  border: 3.5px solid #007bff;
+}
+.btm {
+  border: 2px solid #007bff;
+  border-radius: 3px;
+  color: #007bff;
+  background-color: #f3efcc;
+  padding: 10px;
+  margin: 4px 1px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn15:hover {
+  background-color: #007bff;
+  color: white;
+}
+.btn16 {
+  border: 2px solid #6c757d;
+  border-radius: 3px;
+  color: #6c757d;
+}
+.btn16:hover {
+  background-color: #6c757d;
+  color: white;
+}
+.btn16:active {
+  border: 3.5px solid #828c96;
+  border-radius: 3px;
+}
+.btn17 {
+  border: 2px solid #28a745;
+  border-radius: 3px;
+  color: #28a745;
+}
+.btn17:hover {
+  background-color: #28a745;
+  color: white;
+}
+.btn17:active {
+  border: 3.5px solid #2cc34f;
+}
+.btn18 {
+  border: 2px solid #dc3545;
+  border-radius: 3px;
+  color: #dc3545;
+}
+.btn18:hover {
+  background-color: #f63a4d;
+  color: white;
+}
+.btn18:active {
+  border: 3.5px solid#DC3545;
+  border-radius: 3px;
+}
+.btn19 {
+  border: 2px solid #ffc107;
+  border-radius: 3px;
+  color: #ffc107;
+}
+.btn19:hover {
+  background-color: #ffc107;
+  color: white;
+}
+.btn19:active {
+  border: 3.5px solid #ffc929;
+  border-radius: 3px;
+}
+.btn20 {
+  border: 2px solid #17a2b8;
+  border-radius: 3px;
+  color: #17a2b8;
+}
+.btn20:hover {
+  background-color: #17a2b8;
+  color: white;
+}
+.btn20:active {
+  border: 3.5px solid #1bb0c7;
+  border-radius: 3px;
+}
+.btn21 {
+  background-color: #f3efcc;
+  color: #f3efcc;
+  border: none;
+}
+.btn21:hover {
+  background-color: #dad6b5;
+  color: black;
+}
+
+.btn22 {
+  border: 2px solid #343a40;
+  border-radius: 3px;
+  color: #343a40;
+}
+.btn22:hover {
+  background-color: #343a40;
+  color: white;
+}
+.btn22:active {
+  border: 3.5px solid #383f45;
+  border-radius: 3px;
+}
+.di1 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 6px;
+  width: 600px;
+}
+.di2 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 6px;
+  width: 330px;
+}
+.di3 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 6px;
+  width: 580px;
+}
+.H3 {
+  border-left: 3px solid #344394;
+  border-right: 3px solid #344394;
+  text-align: center;
+  width: 170px;
+  padding: 3px;
+  margin-left: 640px;
+  color: #344394;
+}
